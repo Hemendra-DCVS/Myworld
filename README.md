@@ -1,2 +1,2 @@
 # Myworld
-https://notexo.in/urls
+urls
